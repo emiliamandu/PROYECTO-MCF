@@ -6,3 +6,4 @@ import matplotlib.pyplot as plt
 from scipy.stats import kurtosis, skew, shapiro
 
 print('Hola mundo')
+st.title('Hola mundo')
